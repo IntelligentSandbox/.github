@@ -19,8 +19,13 @@ Interested in collaborating or joining the organization? We'd love to hear from 
 
 ## Contributors
 
-- [Chang Min Bark](https://www.linkedin.com/in/chang-min-bark-0091b7b9/)
-- [Ramon Asuncion](https://www.linkedin.com/in/ramonasuncion/)
+<a href="https://github.com/changminbark">
+  <img src="https://github.com/changminbark.png?size=80">
+</a>
+
+<a href="https://github.com/ramonasuncion">
+  <img src="https://github.com/ramonasuncion.png?size=80">
+</a>
 
 ---
 
