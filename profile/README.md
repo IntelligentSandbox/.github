@@ -8,7 +8,7 @@ IntelligentSandbox is a collaborative space where we explore and experiment with
 
 ## Focus Areas
 
-We work across a broad spectrum of AI domains, constantly exploring new technologies, methodologies, and applications. Our projects range from experimental proofs-of-concept to more developed tools and frameworks involving Computer Vision, Deep Learning, Machine Learning, LLMs, RAG, and more.
+We work across a broad spectrum of AI domains, constantly exploring new technologies, methodologies, and applications. Our projects include work in Computer Vision, Deep Learning, Machine Learning, LLMs, RAG, and more.
 
 ## Join Us
 
