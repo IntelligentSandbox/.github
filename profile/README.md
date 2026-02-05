@@ -17,6 +17,7 @@ Interested in collaborating or joining the organization? We'd love to hear from 
 - **Chang Min Bark** - [LinkedIn](https://www.linkedin.com/in/chang-min-bark-0091b7b9/)
 - **Ramon Asuncion** - [LinkedIn](https://www.linkedin.com/in/ramonasuncion/)
 - **Joshua Lee** - [LinkedIn](https://www.linkedin.com/in/joshua-lee2026/)
+- **Hung Ngo** - [LinkedIn](https://www.linkedin.com/in/hungtienngo/)
 
 ## Contributors
 
@@ -28,6 +29,9 @@ Interested in collaborating or joining the organization? We'd love to hear from 
 </a>
 <a href="https://github.com/Josh2230">
   <img src="https://github.com/Josh2230.png?size=80" width="80" height="80" alt="Joshua Lee">
+</a>
+<a href="https://github.com/hungngo04">
+  <img src="https://github.com/hungngo04.png?size=80" width="80" height="80" alt="Hung Ngo">
 </a>
 
 ---
