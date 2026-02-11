@@ -18,6 +18,7 @@ Interested in collaborating or joining the organization? We'd love to hear from 
 - **Ramon Asuncion** - [LinkedIn](https://www.linkedin.com/in/ramonasuncion/)
 - **Joshua Lee** - [LinkedIn](https://www.linkedin.com/in/joshua-lee2026/)
 - **Hung Ngo** - [LinkedIn](https://www.linkedin.com/in/hungtienngo/)
+- **Warren Wang** - [LinkedIn](https://www.linkedin.com/in/warrenmwang/)
 
 ## Contributors
 
@@ -32,6 +33,9 @@ Interested in collaborating or joining the organization? We'd love to hear from 
 </a>
 <a href="https://github.com/hungngo04">
   <img src="https://github.com/hungngo04.png?size=80" width="80" height="80" alt="Hung Ngo">
+</a>
+<a href="https://github.com/warrenmwang">
+  <img src="https://github.com/warrenmwang.png?size=80" width="80" height="80" alt="Warren Wango">
 </a>
 
 ---
