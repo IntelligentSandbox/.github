@@ -38,6 +38,11 @@ Interested in collaborating or joining the organization? We'd love to hear from 
   <img src="https://github.com/warrenmwang.png?size=80" width="80" height="80" alt="Warren Wango">
 </a>
 
+### Honorable Mentions
+
+<img src="https://github.com/claude.png?size=60" width="60" height="60" alt="Claude">
+<img src="https://avatars.githubusercontent.com/in/1693627?s=60&u=b2ba30400dac544efe4c28ef4d97d7f55ddab244&v=4" width="60" height="60" alt="GitHub Copilot">
+
 ---
 
 *This organization is a work in progress. Check back regularly for new projects and updates!*
