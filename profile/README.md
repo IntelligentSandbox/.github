@@ -40,8 +40,12 @@ Interested in collaborating or joining the organization? We'd love to hear from 
 
 ### Honorable Mentions
 
-<img src="https://github.com/claude.png?size=60" width="60" height="60" alt="Claude">
-<img src="https://avatars.githubusercontent.com/in/1693627?s=60&u=b2ba30400dac544efe4c28ef4d97d7f55ddab244&v=4" width="60" height="60" alt="GitHub Copilot">
+<a href="https://github.com/claude">
+  <img src="https://github.com/claude.png?size=60" width="60" height="60" alt="Claude">
+</a>
+<a href="https://github.com/copilot">
+  <img src="https://avatars.githubusercontent.com/in/1693627?s=60&u=b2ba30400dac544efe4c28ef4d97d7f55ddab244&v=4" width="60" height="60" alt="GitHub Copilot">
+</a>
 
 ---
 
